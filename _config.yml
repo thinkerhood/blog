@@ -2,8 +2,7 @@
 title: Dattaraj's Blog
 email: dattaraj@dattarajpai.com
 description: > # this means to ignore newlines until "baseurl:"
-  Writer and blogger.
-baseurl: "/blog"  the subpath of your site, e.g. /blog/
+baseurl: "/blog"  # subpath of your site, e.g. /blog/
 url: "http://www.dattarajpai.com" # the base hostname & protocol for your site
 twitter_username: dattarajpai
 github_username:  dattarajpai
