@@ -79,7 +79,7 @@ time, mark, audio, video {
 
 body{
 
-	font-family: Georgia;
+	font-family: 'Georgia', serif;
 	font-size: 16px;
 	line-height: 28px;
 	width: 100%;
@@ -107,7 +107,7 @@ body a:hover {
 
 
 h1{
-	font: 45px/ 35px bold "Georgia", serif;
+	font: bold 45px/ 35px  "Georgia", serif;
 	margin-bottom: 20px;
 	padding: 10px;
 	color: black;
@@ -123,7 +123,7 @@ p{
 
 .heading h1{
 	text-align: center;
-	font-family: 'Satisfy', serif;
+	font: normal 37px/40px 'Satisfy', serif;
 }
 
 .wrap{
@@ -146,7 +146,7 @@ p{
 .nav{
 	background-color: black;
 	color: white;
-	font: 17px/20px normal 'Lobster', cursive;
+	font: normal 17px/20px  'Lobster', cursive;
 		text-align: center;
 }
 
@@ -183,11 +183,11 @@ p{
 
 
 .post-link{
-	font: 27px/30px bold 'Bree Serif', serif;
+	font: bold 27px/30px 'Bree Serif', serif;
 }
 
 .post-title {
-		font: 37px/30px bold 'Bree Serif', serif;
+		font: bold 37px/30px  'Bree Serif', serif;
 }
 
 /* Underline From Center */
