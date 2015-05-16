@@ -230,3 +230,54 @@ p{
   padding: 20px 0 10px 0;
   font-size: 14px;
 }
+
+/* Mobile
+----------------------------------------------- */
+
+@media screen and (max-width : 1280px) {
+/* CSS FOR NETBOOK AND DESKTOP ------------*/
+.share{
+   visibility:hidden;
+}
+}
+
+@media screen and (max-width : 970px) {
+/* CSS FOR TABLETS ------------*/
+
+}
+
+
+
+@media screen and (max-width : 768px) {
+/* CSS FOR SMALL TABLETS ------------*/
+
+#sthoverbuttons #sthoverbuttonsMain {
+ visibility:hidden;
+
+}
+
+#sthoverbuttons-background{
+  display:none;
+}
+.share{
+   visibility:visible;
+}
+}
+
+
+
+@media screen and (max-width : 640px) {
+/* CSS FOR IPHONE ------------*/
+}
+
+@media screen and (max-width : 480px) {
+/* CSS FOR MOBILES ------------*/
+
+
+
+}
+
+
+@media screen and (max-width : 320px) {
+/* CSS FOR SMALL OLD MOBILES ------------*/
+}
