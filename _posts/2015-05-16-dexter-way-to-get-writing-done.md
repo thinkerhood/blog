@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The 'Dexter' Way to Get Some Writing Done"
-date:   2015-05-15 00:19:30
+date:   2015-05-16 00:19:30
 categories: 
 comments: True
 ---
